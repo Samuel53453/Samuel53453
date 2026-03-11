@@ -12,4 +12,4 @@ Fun Facts:
 * I enjoy tracking the **stock market** and analyzing financial metrics.
 
 ---
-"The best way to predict the future is to create it."
+"1% better every day"
