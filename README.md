@@ -1,18 +1,13 @@
-Hey there! 👋
+### Hey there! 👋
 
-I'm a budding **Fullstack Developer** currently honing my skills through the Scrimba Professional Path. I love the logic of the back end and the creativity of the front end, and I'm working toward building seamless, end-to-end web applications.
+I’m a full-stack student at Scrimba, based in Indonesia. Right now, I’m just focusing on staying consistent, enjoying the process, and figuring out how to build solid end-to-end apps.
 
-### 🛠️ What I'm currently working on:
-* **Scrimba Fullstack Path:** Currently mastering the intricacies of React and Node.js.
-* **Eco-Flow:** Developing a smart water station monitoring system using IoT sensors and a web dashboard.
+I've got a bunch of projects that I've collaborated with my classmates on, creating apps and websites.
 
-### 🧰 My Toolbox:
-* **Languages & Frontend:** HTML5, CSS3, JavaScript (ES6+), React.
-* **Design & Creativity:** Figma (for UI/UX prototyping) and DaVinci Resolve (for video content).
-* **Tools:** Git, GitHub, VS Code, and Chrome DevTools.
+My main tech stack is HTML, CSS3, JavaScript, and React. My favorite design tools are Figma (for UI/UX prototyping) and Davinci Resolve (For content :), still learning though.
 
-### 🌱 Fun Facts:
-* When I'm not coding, you'll probably find me at the gym working on **calisthenics** and high-level strength skills (currently chasing that Planche!).
+Fun Facts:
+* When I'm not coding, you'll probably find me at the gym working on **calisthenics**.
 * I'm a big fan of **progressive overload**, both in my workouts and in my coding projects.
 * I enjoy tracking the **stock market** and analyzing financial metrics.
 
