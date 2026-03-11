@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**Samuel53453/Samuel53453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a budding **Fullstack Developer** currently honing my skills through the Scrimba Professional Path. I love the logic of the back end and the creativity of the front end, and I'm working toward building seamless, end-to-end web applications.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm currently working on:
+* **Scrimba Fullstack Path:** Currently mastering the intricacies of React and Node.js.
+* **Eco-Flow:** Developing a smart water station monitoring system using IoT sensors and a web dashboard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 My Toolbox:
+* **Languages & Frontend:** HTML5, CSS3, JavaScript (ES6+), React.
+* **Design & Creativity:** Figma (for UI/UX prototyping) and DaVinci Resolve (for video content).
+* **Tools:** Git, GitHub, VS Code, and Chrome DevTools.
+
+### 🌱 Fun Facts:
+* When I'm not coding, you'll probably find me at the gym working on **calisthenics** and high-level strength skills (currently chasing that Planche!).
+* I'm a big fan of **progressive overload**, both in my workouts and in my coding projects.
+* I enjoy tracking the **stock market** and analyzing financial metrics.
+
+---
+"The best way to predict the future is to create it."
